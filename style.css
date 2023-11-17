@@ -5,3 +5,12 @@ body {
 .header {
   text-align: center;
 }
+
+.content {
+  display: flex;
+  justify-content: center;
+
+  background-color: coral;
+  padding: 1rem;
+  border-radius: 10px;
+}
